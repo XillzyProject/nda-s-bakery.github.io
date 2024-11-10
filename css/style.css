@@ -671,7 +671,7 @@ footer .credit a {
   }
 
   .navbar .navbar-nav a {
-    color: var(--bg);
+    color: var(--primary);
     display: block;
     margin: 1.5rem;
     padding: 0.5rem;
